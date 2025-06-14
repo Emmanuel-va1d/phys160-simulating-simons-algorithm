@@ -1,0 +1,14 @@
+qiskit
+qiskit-aer
+qiskit-ibm-provider
+qiskit-ibm-runtime
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+pydot
+pylatexenc
+symengine
+z3-solver
+
